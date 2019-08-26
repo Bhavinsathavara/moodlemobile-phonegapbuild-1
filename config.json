@@ -69,8 +69,8 @@
         }
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "https://hortskills.com.au/",
+    "sitename": "Hortskills",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
