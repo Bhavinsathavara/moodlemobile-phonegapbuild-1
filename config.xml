@@ -5,15 +5,15 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "37000"
         android-versionCode="37000"
-        version   = "3.7.0">
-    <name>Moodle</name>
+        version   = "1.1">
+    <name>Hortskills</name>
 
     <description>
-        Moodle official app
+        Hortskills
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="https://hortskills.com.au" email="shahkb4@gmail.com">
+        Hortskills Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
